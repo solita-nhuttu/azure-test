@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'nhuttu-python'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43A9833D376A49F9BBCB3C209AA99FEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8D10A3C7B9B45E0A1B9ACE41645DAED }}
